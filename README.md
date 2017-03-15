@@ -1,2 +1,2 @@
 # githubDemo
-测试
+测试熟悉guthub模式
